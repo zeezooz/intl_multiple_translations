@@ -1,5 +1,4 @@
-Allow [intl](https://pub.dev/packages/intl) to support multiple translations
-per locale.
+Allows [intl](https://pub.dev/packages/intl) to load more than one translation for each locale.
 
 It keeps an already loaded translation if the intl message lookup mechanism was
 initialized with a

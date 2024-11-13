@@ -1,19 +1,19 @@
 name: intl_multiple_translations
-description: Allow intl to support multiple translations per locale.
+description: Allows intl to load more than one translation for each locale.
 topics:
   - translation
   - localization
   - internationalization
   - l10n
   - i18n
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/zeezooz/intl_multiple_translations
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
-  intl: ">=0.17.0 <0.20.0"
+  intl: ">=0.17.0 <0.21.0"
 
 dev_dependencies:
   test: ^1.17.12
